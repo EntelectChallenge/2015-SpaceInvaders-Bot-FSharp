@@ -1,4 +1,4 @@
-# C&#35;
+# F&#35;
 If you plan to develop your entry in F&#35; you need to download and install [Visual Studio Express 2013](http://www.microsoft.com/en-us/download/details.aspx?id=44914).
 
 ## Compile
